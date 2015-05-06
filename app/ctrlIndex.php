@@ -7,5 +7,6 @@ class ctrlIndex extends ctrl{
 		$this->out('posts.php');
 	}
 }
+//commit
 
 ?>
